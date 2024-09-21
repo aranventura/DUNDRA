@@ -1,0 +1,30 @@
+Volveria del viaje a funcionVoid con los integrantes: ningun integrante.
+
+    Aparecio un picaro llamado peter que tiene de valor <i>.
+
+El viaje termino sin ningun valor.
+
+
+Volveria un barbaro del viaje a funcionBarbaro con los integrantes:
+un barbaro llamado alvaro, un picaro llamado bruno y ningun integrante mas.
+
+    Aparecio un barbaro llamado ralph que tiene de valor alvaro.
+
+El viaje termino con valor: ralph.
+
+
+Volveria un paladin del viaje a funcionPaladin con los integrantes: ningun integrante.
+
+El viaje termino con valor: cierto.
+
+
+Erase una vez...
+
+    Se produjo el viaje a funcionVoid con los integrantes: 100 y ningun integrante mas.
+
+    Aparecio un barbaro llamado berto.
+    berto vio como se produjo el viaje a funcionBarbaro con los integrantes: <5>, 5 y ningun integrante mas!
+
+    berto vio como se produjo el viaje a funcionBarbaro con los integrantes: 5 y <5>!
+
+Fin de la historia!

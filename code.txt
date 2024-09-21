@@ -1,0 +1,30 @@
+Volveria un barbaro de un viaje a fibonacci con los siguientes integrantes:
+Un barbaro llamado n y ningun integrante mas...
+
+Durante el viaje, aparecio un barbaro llamado a que tiene de valor 0!
+Tambien otro barbaro llamado b que tiene de valor 1... Y un ultimo barbaro llamado c.
+
+Aparecio un nuevo barbaro llamado i... Y se produjo una pelea
+En la pelea, i vio como n le ataco por un valor de 1!
+
+Empezo un combate que duraria i rondas...
+Donde se produjeron varias peleas
+En la pelea en primera posicion, c vio como a se curo por un valor de b.
+En la pelea en segunda posicion, a vio el valor de b.
+Y en la pelea en tercera posicion, b vio el valor de c.
+
+
+El viaje termino con valor: c.
+
+
+
+
+
+Erase una vez en un mundo no muy lejano...
+
+Un barbaro llamado resultado.
+
+De repente, se produjo una pelea
+En la pelea, resultado vio el viaje a fibonacci con los siguientes integrantes: 15 y ningun integrante mas.
+
+Fin de la historia.
