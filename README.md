@@ -1,1 +1,11 @@
-# FairyTailLenguage
+# DUNDRA
+
+DUNDRA is a general purpose compiled programming language. Its main goal, like that of any other programming language, is to be able to give a trace of instructions to the user. The focus of this programming language, and its raison d'être, is to be able to explain a story and serve as a natural language now that you write statements that the compiler will be able to recognize. 
+
+We improved the capability of our language so that, in addition to being functional, it allows a developer to program while explaining a story in parallel. The idea is to be able to serve everyday expressions and natural language, serving key words to give instructions to the compiler without sacrificing the readability of the code. Moreover, programming languages are full of practical conventions, special characters and reserved symbols, unique to that specific language, etc. DUNDRA seeks to open this entry barrier. 
+
+When a variable is declared, it is understood organically that a new actor is appearing in the narrative in the same way that the variable appears in the code. When a function is called, it is understood that there are characters on a journey and they return, in the same way that happens with the code. When there are conditionals and possible paths that the code can take, it is treated as if there were different alternatives for the characters or as a fork in the road. For each functionality of a programming language, a parallel has been sought in the world of fantasy and role-playing, so that it will be familiar to the end user who will program in DUNDRA. 
+ 
+It is also intended that, when someone takes a DUNDRA code for the first time, he/she is unable to know that there are instructions there that can be interpreted by a compiler and only sees a narrative. The reader will see that there are sentences, interactions between characters, journeys and conditionals, but at first glance it will be difficult to imagine that there really is code there. Not only because this can be used to “hide” code and create a secret language, but also because it makes it readable and understandable for a person who does not know how to program, unlike what can happen with other languages such as Pyhton, C or Java. 
+
+It is evident that DUNDRA is inspired and bases much of its vocabulary on board games and role-playing games, hence its nature and also its name: “DUNgeons and DRAgons”. The convention for the font-code plugins of the language is the “.dnd” extension.
